@@ -11,9 +11,9 @@
 
 
 <h2>Features</h2>
-<p>- Creating an acoount. </p>
-<p>- Loging in/Logging out.</p>
-<p>- Searching ingedients.</p>
+<p>- Creating an account. </p>
+<p>- Logging in/Logging out.</p>
+<p>- Searching ingredients.</p>
 <p>- Searching recipes.</p>
 <p>- Editing recipe to your profile as farites.</p>
 <p>- Deleting recipe from your collection of favorites. </p>
