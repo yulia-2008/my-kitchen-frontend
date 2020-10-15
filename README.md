@@ -15,7 +15,7 @@
 <p>- Logging in/Logging out.</p>
 <p>- Searching ingredients.</p>
 <p>- Searching recipes.</p>
-<p>- Editing recipe to your profile as farites.</p>
+<p>- Eding recipe to your profile as favorites.</p>
 <p>- Deleting recipe from your collection of favorites. </p>
 <p>- Changing Users Avatar. </p>
 
