@@ -21,7 +21,7 @@
 
 <h2>Frontend Built With</h2>
 <ul>
- <li> <b>React.js</b> </li>
+ <li> <b>React.js</b> for building user interface. </li>
  <li> Utilized <b>React Router</b> to establish a dynamic routing system through the web app </li>
  <li> Spoonacular open data source API for recipe content (www.spoonacular.com) 
 </ul>
