@@ -41,11 +41,11 @@ cd <FOLDER_NAME>
 <p> 3.  Clone frontend and backend repos to the same folder.</p>
 
 ```sh
-git clone  git@github.com:yulia-2008/spread_the_good_frontend.git
+git clone  git@github.com:yulia-2008/my-kitchen-frontend.git
 ```
 
 ```sh
-git clone  git@github.com:yulia-2008/spread_the_good_backend.git
+git clone  git@github.com:yulia-2008/MyKitchen-backend.git
 ``` 
 <p> <b>Backend installation: </b> </p>
 
@@ -57,7 +57,7 @@ git clone  git@github.com:yulia-2008/spread_the_good_backend.git
  <p> 2. Make sure you are in the project backend directory. </p>
       
 ```sh
-cd spread_the_good_backend
+cd MyKitchen-backend
 ```
  
  <p> 3. Run the following commands to create and setup the database. </p>
@@ -70,10 +70,6 @@ rails db:create
 rails db:migrate
 ``` 
  <p> 4. Start rails server on port 4000.</p>
-     
-```sh
-cd spread_the_good_backend
-```
 
 ```sh
 rails s -p4000
@@ -83,7 +79,7 @@ rails s -p4000
  <p> 1. In your terminal go to frontend directory.</p>
  
 ```sh
-cd spread_the_good_frontend
+cd my-kitchen-frontend
 ```
 
  <p> 2. Install NPM packages:</p>
