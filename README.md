@@ -2,7 +2,7 @@
 <h1 align="center">My Kitchen</h1>
 <h3 align="center">Collaboration with Roman Opalacz. </h3>
 <div align="center">
-<img src="./app-demo.gif"></img>
+<img src="./app_demo.gif"></img>
 </div>
 <h2>About The Project</h2>
 <p>Recipes app.</p>
