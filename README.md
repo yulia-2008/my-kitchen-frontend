@@ -49,7 +49,7 @@ git clone  git@github.com:yulia-2008/MyKitchen-backend.git
 ``` 
 <p> <b>Backend installation: </b> </p>
 
-<p> 1. In <b>spread_the_good_backend/config/database.yml</b> file enter your postgres user for the project and password as shown below:</p>
+<p> 1. In <b>config/database.yml</b> file enter your postgres user for the project and password as shown below:</p>
  <div align="center">
  <img src="./database.example.jpg"></img>
  </div>
